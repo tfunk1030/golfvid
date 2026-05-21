@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Video inputs and generated outputs
+*.mp4
+*.mov
+*.MOV
+*.avi
+*.mkv
