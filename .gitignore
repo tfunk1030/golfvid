@@ -5,9 +5,13 @@ __pycache__/
 venv/
 .env
 
-# Video inputs and generated outputs
+# Generated outputs and other video
 *.mp4
-*.mov
-*.MOV
 *.avi
 *.mkv
+*.mov
+*.MOV
+
+# Source test clips (tracked)
+!IMG_3970.MOV
+!IMG_4004.MOV
